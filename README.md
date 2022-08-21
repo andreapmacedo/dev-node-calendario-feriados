@@ -1,6 +1,7 @@
-# dev-node-calendario-feriados
+# Boas-vindas ao repositório Calendario de Feriados!
+:calendar:
 
-# para executari:
-# na diretório do index.js digite: npm install
-# após instalação, digite: node: index.js
-# obs.: requer o node instalado no sistema.
+Clone o projeto em sua máquina e em seguida acesse o diretório do arquivo index.js
+No diretório, digite: npm install
+Após instalação das dependências, digite: node: index.js
+obs.: requer o node instalado no sistema.
